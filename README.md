@@ -33,3 +33,7 @@ Feel free to reach out to me through the following channels:
 Let's connect and collaborate on some exciting projects!
 
 Thanks for visiting my GitHub profile. Have a great day! 😊
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=rasul-qutbiddinov
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rasul-qutbiddinov&theme=dark&background=000000)](https://git.io/streak-stats)
