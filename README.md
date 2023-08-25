@@ -24,8 +24,7 @@ Here are some of the projects I'm proud of:
 - To-Do App (https://todo-app-rasul.vercel.app/) - A user-friendly app to manage your tasks and boost productivity.
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=rasul-qutbiddinov
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rasul-qutbiddinov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasul-qutbiddinov)](https://git.io/streak-stats)
 
 
 ## 📫 Contact Me
