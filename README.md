@@ -37,5 +37,6 @@ Feel free to reach out to me through the following channels:
 [<img align="left" alt="Telegram" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />](https://t.me/Qutbiddinov_04)
 
 <br />
+<br />
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
