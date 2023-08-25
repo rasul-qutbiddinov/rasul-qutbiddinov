@@ -1,11 +1,4 @@
-### Hi there 👋 I am Rasul, a passionate developer from Tashkent
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rasul-qutbiddinov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
+### Hi there 👋 I am Rasul, a Front-End developer from Tashkent
 
 ## 🚀 About Me
 - 🌱 I’m currently learning React & NextJs
@@ -37,3 +30,11 @@ Feel free to reach out to me through the following channels:
 Let's connect and collaborate on some exciting projects!
 
 Thanks for visiting my GitHub profile. Have a great day! 😊
+
+<br />
+<br />
+
+[telegram]: https://t.me/Qutbiddinov_04
+[linkedin]: https://www.linkedin.com/in/rasul-qutbiddinov/
+[github]: https://github.com/rasul-qutbiddinov/
+[instagram]: https://www.instagram.com/qutbiddinov.04/
