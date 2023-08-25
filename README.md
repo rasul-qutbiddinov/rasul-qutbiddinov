@@ -31,9 +31,14 @@ Here are some of the projects I'm proud of:
 ## 📫 Contact Me
 
 Feel free to reach out to me through the following channels:
-[<img align="left" alt="LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Telegram" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
+
+<br />
+<br />
+
+[<img align="left" alt="LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/rasul-qutbiddinov/)
+[<img align="left" alt="Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/qutbiddinov.04/)
+[<img align="left" alt="Telegram" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />](https://t.me/Qutbiddinov_04)
+
 
 Let's connect and collaborate on some exciting projects!
 
