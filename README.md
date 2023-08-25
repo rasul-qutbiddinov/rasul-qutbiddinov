@@ -23,6 +23,11 @@ Here are some of the projects I'm proud of:
 - Prompt (https://prompt-rasul.vercel.app/) - A set of 10+ plain HTML webpages transformed into dynamic React components.
 - To-Do App (https://todo-app-rasul.vercel.app/) - A user-friendly app to manage your tasks and boost productivity.
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=rasul-qutbiddinov
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rasul-qutbiddinov&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ## 📫 Contact Me
 
 Feel free to reach out to me through the following channels:
@@ -33,7 +38,3 @@ Feel free to reach out to me through the following channels:
 Let's connect and collaborate on some exciting projects!
 
 Thanks for visiting my GitHub profile. Have a great day! 😊
-
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=rasul-qutbiddinov
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rasul-qutbiddinov&theme=dark&background=000000)](https://git.io/streak-stats)
