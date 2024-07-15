@@ -39,3 +39,4 @@ Feel free to reach out to me through the following channels:
 <br />
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasul-qutbiddinov)](https://github.com/rasul-qutbiddinov/github-readme-stats)
