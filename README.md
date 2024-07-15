@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Rasul, a Front-End developer from Tashkent
 
 ## 🚀 About Me
-![](https://komarev.com/ghpvc/?username=your-github-rasul-qutbiddinov)
+![](https://komarev.com/ghpvc/?username=your-github-rasul-qutbiddinov&color=green)
 - 🌱 I’m currently learning React & NextJs
 
 ## 💻 Technologies & Tools
