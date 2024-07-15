@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Rasul, a Front-End developer from Tashkent
 
 ## 🚀 About Me
+![Visitor Count](https://profile-counter.glitch.me/{rasul-qutbiddinov}/count.svg)
 - 🌱 I’m currently learning React & NextJs
 
 ## 💻 Technologies & Tools
