@@ -40,6 +40,4 @@ Feel free to reach out to me through the following channels:
 <br />
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+             
