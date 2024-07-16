@@ -19,9 +19,9 @@
 
 Here are some of the projects I'm proud of:
 
-- Dorsin (https://dorsin-rasul.vercel.app/) - A diverse web app with 4 core pages (Home, About, Contact, FAQ) and authorization modules.
-- Prompt (https://prompt-rasul.vercel.app/) - A set of 10+ plain HTML webpages transformed into dynamic React components.
-- To-Do App (https://todo-app-rasul.vercel.app/) - A user-friendly app to manage your tasks and boost productivity.
+- [Dorsin](https://dorsin-rasul.vercel.app/) - A diverse web app with 4 core pages (Home, About, Contact, FAQ) and authorization modules.
+- [Prompt](https://prompt-rasul.vercel.app/) - A set of 10+ plain HTML webpages transformed into dynamic React components.
+- [To-Do App](https://todo-app-rasul.vercel.app/) - A user-friendly app to manage your tasks and boost productivity.
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasul-qutbiddinov)](https://git.io/streak-stats)
@@ -41,4 +41,4 @@ Feel free to reach out to me through the following channels:
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
 
-
+![Snake animation](https://github.com/rasul-qutbiddinov/rasul-qutbiddinov/blob/output/github-contribution-grid-snake.svg)
