@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Rasul, a Front-End developer from Tashkent
 
 ## 🚀 About Me
-![](https://komarev.com/ghpvc/?username=your-github-rasul-qutbiddinov&color=green)
+![](https://komarev.com/ghpvc/?username=rasul-qutbiddinov&color=green)
 - 🌱 I’m currently learning React & NextJs
 
 ## 💻 Technologies & Tools
@@ -41,5 +41,4 @@ Feel free to reach out to me through the following channels:
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
 
-
-![Snake animation](https://github.com/`rasul-qutbiddinov`/`rasul-qutbiddinov`/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rasul-qutbiddinov/rasul-qutbiddinov/blob/output/github-contribution-grid-snake.svg)
