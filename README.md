@@ -40,6 +40,6 @@ Feel free to reach out to me through the following channels:
 <br />
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
-Hi there, I'm `rasul-qutbiddinov`! 🐍
 
-![Snake animation](https://github.com/`your_username`/`your_username`/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/`rasul-qutbiddinov`/`rasul-qutbiddinov`/blob/output/github-contribution-grid-snake.svg)
