@@ -41,4 +41,8 @@ Feel free to reach out to me through the following channels:
 Thanks for visiting my GitHub profile. Have a great day! 😊
 <br />
 
-![Snake animation](https://github.com/rasul-qutbiddinov/rasul-qutbiddinov/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
